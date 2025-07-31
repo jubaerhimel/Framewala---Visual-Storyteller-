@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../startbootstrap-creative-gh-pages/assets"
+		},
+		{
+			"path": "../startbootstrap-creative-gh-pages/css"
+		},
+		{
+			"path": "../startbootstrap-creative-gh-pages/js"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "assets"
+	}
+}
